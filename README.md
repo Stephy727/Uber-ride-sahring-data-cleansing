@@ -20,7 +20,7 @@ Destination longitude - Longitude of the destination coming from the nodes.csv f
 
 Journey Distance - The shortest path, in meters, between the origin and the destination with respect to the nodes.txt and the edges.txt files.
 
-Dijkstra algorithm can be used to find the shortest path between two nodes in a graph. Reading materials can be found here .
+Dijkstra algorithm can be used to find the shortest path between two nodes in a graph. 
 
 Departure date - Date of the departure. We know that the price is different on weekdays compared to weekends.
 
